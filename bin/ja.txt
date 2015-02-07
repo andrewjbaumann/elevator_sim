@@ -1,0 +1,12 @@
+# Number of elevators in the elevator bank
+elevators = 5
+# Number of floors serviced by the elevators
+floors = 20
+# Maximum weight for customers in an elevator for the elevator to operate
+weight_limit = 1500
+# Weights for elevator customers
+min_weight = 90
+max_weight = 250
+# Number of customers generated per minute per floor
+customers = 0.1
+
