@@ -5,7 +5,11 @@ TODO: BUG FIXES
 
 done for hunter college's CSCI 235 class with David Guy Brizan.
 
+
+
+
 Assignment text:
+
 Task 2: Elevator
 If you choose this task, you may work in teams of no more than three students who are in this section of this course. Each
 person submitting for this task will receive the same grade regardless of contribution.
